@@ -1,0 +1,12 @@
+# Build output
+build/
+
+# macOS
+.DS_Store
+**/.DS_Store
+
+# Xcode / SwiftPM
+*.xcuserstate
+.build/
+
+# Quarantine xattrs (stripped at build time)
